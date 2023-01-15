@@ -1,0 +1,9 @@
+#messages strong {
+    text-transform: capitalize;
+}
+
+#messages span {
+    font-size: small;
+    float: right !important;
+    color: gray;
+}
